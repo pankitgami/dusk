@@ -1,14 +1,8 @@
 {
     "name": "pankitgami/dusk",
     "description": "This package is the fork of laravel/dusk to support dusk in laravel 5.3",
-    "keywords": ["laravel", "testing", "webdriver"],
+    "keywords": ["laravel", "laravel-5.3", "testing", "webdriver"],
     "license": "MIT",
-    "authors": [
-        {
-            "name": "Taylor Otwell",
-            "email": "taylor@laravel.com"
-        }
-    ],
     "require": {
         "php": ">=5.6.4",
         "facebook/webdriver": "~1.0",
