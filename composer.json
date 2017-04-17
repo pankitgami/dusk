@@ -1,6 +1,6 @@
 {
     "name": "pankitgami/dusk",
-    "description": "Laravel Dusk provides simple end-to-end testing and browser automation.",
+    "description": "This is the form of laravel/dusk to support laravel 5.3",
     "keywords": ["laravel", "testing", "webdriver"],
     "license": "MIT",
     "authors": [
