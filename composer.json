@@ -14,7 +14,6 @@
         "facebook/webdriver": "~1.0",
         "nesbot/carbon": "~1.20",
         "illuminate/support": "~5.3",
-        "symfony/console": "~3.2",
         "symfony/process": "~3.2"
     },
     "require-dev": {
