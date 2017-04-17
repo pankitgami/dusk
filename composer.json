@@ -1,6 +1,6 @@
 {
     "name": "pankitgami/dusk",
-    "description": "This is the form of laravel/dusk to support laravel 5.3",
+    "description": "This package is the fork of laravel/dusk to support dusk in laravel 5.3",
     "keywords": ["laravel", "testing", "webdriver"],
     "license": "MIT",
     "authors": [
